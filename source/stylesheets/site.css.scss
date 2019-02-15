@@ -1,0 +1,19 @@
+body {
+  background-color: #efe3c1;
+  color: #333;
+  padding: 18vh 1rem;
+  text-align: center;
+}
+
+a {
+  color: rgba(#000, 0.7);
+
+  &:focus,
+  &:hover {
+    color: rgba(#000, 0.6);
+  }
+}
+
+.middleman-logo {
+  margin-bottom: 1rem;
+}

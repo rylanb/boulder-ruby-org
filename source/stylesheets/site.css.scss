@@ -1,6 +1,7 @@
 body {
   background-color: #efe3c1;
   color: #333;
+  font-family: 'Roboto', sans-serif;
   padding: 5vh 1rem;
   text-align: center;
 }
@@ -11,6 +12,14 @@ a {
   &:focus,
   &:hover {
     color: rgba(#000, 0.6);
+  }
+}
+
+h1 {
+  span {
+    display: block;
+    font-size: 14px;
+    margin-top: 5px;
   }
 }
 

@@ -1,7 +1,40 @@
-# Boulder-ruby.org Site
+<p align="center">
+  <img src="https://github.com/rylanb/boulder-ruby-org/blob/master/source/images/boulder_ruby_logo.jpg" alt="Boulder Ruby Icon"/>
+</p>
 
-## Events
+# Boulder Ruby Web Site
 
-[Meetup for Coding Night & Presentation Night](https://www.meetup.com/boulder_ruby_group/events)
+The web site for the Boulder Ruby Meetup and Coding Night organization.
 
-![Boulder Ruby Logo](https://github.com/rylanb/boulder-ruby-org/blob/master/source/images/boulder_ruby_logo.jpg)
+[See events details for more info](https://www.meetup.com/boulder_ruby_group/events).
+
+## Features
+
+- Leverages [Middleman](https://middlemanapp.com) for static site generation.
+
+## Requirements
+
+- [Ruby 2.6.0](https://www.ruby-lang.org) or higher.
+
+## Setup
+
+Run the following to setup the project locally:
+
+    git clone git@github.com:rylanb/boulder-ruby-org.git
+    cd boulder-ruby-org
+    bundle
+
+## Usage
+
+To build the site locally, run:
+
+    bundle exec middleman build
+
+To view the site locally, run:
+
+    bundle exec middleman
+
+## Testing
+
+For the moment, testing the project consists of building the site locally (see *Usage* section
+above).

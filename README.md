@@ -38,3 +38,8 @@ To view the site locally, run:
 
 For the moment, testing the project consists of building the site locally (see *Usage* section
 above).
+
+## Code of Conduct
+
+Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
+participating in this project you agree to abide by its terms.

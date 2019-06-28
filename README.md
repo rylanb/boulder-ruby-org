@@ -34,10 +34,11 @@ To view the site locally, run:
 
     bundle exec middleman
 
-## Testing
+## Tests
 
-For the moment, testing the project consists of building the site locally (see *Usage* section
-above).
+To test, run:
+
+    bundle exec rake
 
 ## Code of Conduct
 

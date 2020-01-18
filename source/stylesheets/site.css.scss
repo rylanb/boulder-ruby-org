@@ -482,15 +482,15 @@ input, select, textarea {
 
   .row {
     margin-top: 0;
-    margin-left: -2.5em;
+    margin-left: -1em;
   }
 
     .row > * {
-      padding: 0 0 0 2.5em;
+      padding: 0 0 0 1em;
     }
 
     .row.gtr-uniform {
-      margin-top: -2.5em;
+      margin-top: -1em;
     }
 
       .row.gtr-uniform > * {
@@ -725,15 +725,15 @@ input, select, textarea {
 
       .row {
         margin-top: 0;
-        margin-left: -2.5em;
+        margin-left: -1em;
       }
 
         .row > * {
-          padding: 0 0 0 2.5em;
+          padding: 0 0 0 1em;
         }
 
         .row.gtr-uniform {
-          margin-top: -2.5em;
+          margin-top: -1em;
         }
 
           .row.gtr-uniform > * {
@@ -1477,7 +1477,7 @@ input, select, textarea {
 
       .row.gtr-150 {
         margin-top: 0;
-        margin-left: -2.25em;
+        margin-left: -1em;
       }
 
         .row.gtr-150 > * {
@@ -1722,7 +1722,7 @@ input, select, textarea {
 
       .row.gtr-150 {
         margin-top: 0;
-        margin-left: -2.25em;
+        margin-left: -1em;
       }
 
         .row.gtr-150 > * {
@@ -2475,7 +2475,8 @@ input[type="button"],
 }
 
   .work-item .image {
-    margin: 0 0 1.5em 0;
+    margin: 0 0 1.5em;
+    padding: 2.5em;
   }
 
   .work-item h3 {
@@ -2609,8 +2610,8 @@ input[type="button"],
 /* Main */
 #main {
   margin-left: 35%;
-  max-width: 54em;
-  padding: 8em 4em 4em 4em;
+  max-width: 80em;
+  padding: 8em 5em 4em 4em;
   width: calc(100% - 35%);
 }
 

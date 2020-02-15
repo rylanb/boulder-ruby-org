@@ -14,7 +14,7 @@ The web site for the Boulder Ruby Meetup and Coding Night organization.
 
 ## Requirements
 
-- [Ruby 2.6.0](https://www.ruby-lang.org) or higher.
+- [Ruby 2.7.0](https://www.ruby-lang.org) or higher.
 
 ## Setup
 

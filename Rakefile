@@ -9,4 +9,4 @@ end
 desc "Run code quality checks"
 task code_quality: %i[git_cop]
 
-task default: %i[code_quality]
+task default: %i[]

@@ -580,6 +580,10 @@ input, select, textarea {
         width: 8.3333333333%;
       }
 
+      .row > .off-0-xlarge {
+        margin-left: 8.3333333333%;
+      }
+
       .row > .off-1-xlarge {
         margin-left: 8.3333333333%;
       }
@@ -823,6 +827,10 @@ input, select, textarea {
 
       .row > .col-1-large {
         width: 8.3333333333%;
+      }
+
+      .row > .off-0-large {
+        margin-left: 8.3333333333%;
       }
 
       .row > .off-1-large {
@@ -1070,6 +1078,10 @@ input, select, textarea {
         width: 8.3333333333%;
       }
 
+      .row > .off-0-medium {
+        margin-left: 8.3333333333%;
+      }
+
       .row > .off-1-medium {
         margin-left: 8.3333333333%;
       }
@@ -1315,6 +1327,10 @@ input, select, textarea {
         width: 8.3333333333%;
       }
 
+      .row > .off-0-small {
+        margin-left: 8.3333333333%;
+      }
+
       .row > .off-1-small {
         margin-left: 8.3333333333%;
       }
@@ -1558,6 +1574,10 @@ input, select, textarea {
 
       .row > .col-1-xsmall {
         width: 8.3333333333%;
+      }
+
+      .row > .off-0-xsmall {
+        margin-left: 8.3333333333%;
       }
 
       .row > .off-1-xsmall {
@@ -2047,6 +2067,10 @@ input[type="radio"] + label:before {
     display: block;
     margin: 0 0 2em 0;
     width: 100%;
+    &.padded {
+      padding: 0 25%;
+      margin-top: 6%;
+    }
   }
 
     .image.fit img {

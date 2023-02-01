@@ -1,2 +1,0 @@
-[build]
-  command = "gem update --system && bundle install && bundle exec rake && middleman build"

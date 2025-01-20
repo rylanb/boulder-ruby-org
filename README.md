@@ -6,7 +6,7 @@
 
 The web site for the Boulder Ruby Meetup and Coding Night organization.
 
-[See events details for more info](https://www.meetup.com/boulder_ruby_group/events).
+[See events details for more info](https://lu.ma/boulder-ruby).
 
 ## Features
 

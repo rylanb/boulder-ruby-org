@@ -119,6 +119,13 @@ input, select, textarea {
       text-decoration: none;
     }
 
+   a.darker {
+    color: #887234;
+  }
+
+    a.darker:hover {
+      color: #887234 !important;
+    }
   strong, b {
     color: #787878;
     font-weight: 400;
